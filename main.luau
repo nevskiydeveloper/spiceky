@@ -1,7 +1,7 @@
 -- THIS IS JUST A LOADER WITHOUT CDN COOKIE (HASH)!!!!!!!!!!!!!
 local REPO = "nevskiydeveloper/spiceky"
 local BRANCH = "main"
-local FILE = "core.luau"
+local FILE = "scripts/bloxstrike/core.luau"
 
 local nonce = tostring(os.time()) .. "-" .. tostring(math.random(1000000, 9999999))
 
